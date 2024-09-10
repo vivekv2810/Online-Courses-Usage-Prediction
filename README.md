@@ -36,4 +36,3 @@ Box plots and other visualizations are used to compare different online learning
 
 ## Results and Conclusion
 The project concludes with a summary of the model performances and insights gained from the analysis. The accuracy of the models is reported, with a target accuracy of 80% and above.
-"""
